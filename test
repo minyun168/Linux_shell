@@ -1,0 +1,4 @@
+#!/bin/bash
+# A test of shell
+date 
+ls

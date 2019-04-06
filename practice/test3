@@ -1,0 +1,15 @@
+#!/bin/bash
+# variable
+var1=10
+var2 = 10
+echo $var1
+echo $var2
+
+# assigning a variable value to another variable
+value1=10
+value2=$value1
+echo The resulting value is $value2
+
+# the fault way of assign
+value2=value1
+echo The resulting value is $value2

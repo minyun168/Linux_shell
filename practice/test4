@@ -1,0 +1,4 @@
+#!/bin/bash
+#` ` with $( )
+testing=$(date)
+echo "The date and time are: " $testing
